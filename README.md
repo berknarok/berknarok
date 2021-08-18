@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @berknarok
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning C#
+- 📫 How to reach me berkaglar@hotmail.com
