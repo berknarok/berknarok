@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @berknarok
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning C#
-- 📫 How to reach me berkaglar@hotmail.com
+- 👀 I’m interested in Python, C# and JS
+- 🌱 I’m currently learning Python, C# and JS
+- 📫 How to reach me berk.aglar@metu.edu.tr
